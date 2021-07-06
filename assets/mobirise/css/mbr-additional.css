@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -702,6 +702,14 @@ a {
 .cid-sCm1f5DKx9 .social-row .soc-item .mbr-iconfont:hover {
   background-color: #232323;
   color: #ffffff;
+}
+.cid-sCm1f5DKx9 .mbr-text,
+.cid-sCm1f5DKx9 .mbr-section-btn,
+.cid-sCm1f5DKx9 .social-row {
+  color: #184fb2;
+}
+.cid-sCm1f5DKx9 .mbr-section-title {
+  color: #353535;
 }
 .cid-sCm7ZkJ40G {
   padding-top: 5rem;
